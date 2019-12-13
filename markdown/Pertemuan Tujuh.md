@@ -357,7 +357,7 @@ Mencari file latih yang berakhiran apapun:
 
 #### Ketentuan Challenge
 
-- Challenge no harus menggunakan Screenshot.
+- Challenge no 1-5 harus menggunakan Screenshot.
 - Challenge dikumpulkan di Elen.
 
 #### Challenge
